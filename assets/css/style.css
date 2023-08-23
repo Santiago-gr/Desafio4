@@ -1,0 +1,42 @@
+body{
+    padding: 5px;
+}
+
+.p-text{
+
+    font-family: 'Roboto', sans-serif;
+}
+.imagen-logo{
+    filter: invert(0.99)
+    opacity(100%)
+    }
+
+.color-precio{
+    color: green;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: right;
+   }
+.color-text{
+    color: gray;
+
+}
+
+form{
+    background-color: green;
+    color: aliceblue;
+    padding: 2%;
+    text-align: center;
+    
+}
+#boton{
+
+    margin: 10px;
+    background-color: black;
+    color: white;
+    
+}
+.pie{
+    text-align: center;
+    color: cadetblue;    
+}
